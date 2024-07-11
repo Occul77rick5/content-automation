@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "content-automation",
+	"name": "Content Production Assistant",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Help automate and make content production more streamlined",
+	"author": "Author",
+	"authorUrl": "https://theliminaldream.com",
+	"fundingUrl": "https://theliminaldream.com/content-poduction-assistant/pricing",
 	"isDesktopOnly": false
 }
